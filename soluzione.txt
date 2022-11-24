@@ -1,0 +1,7 @@
+1) dare la possibilità di inserire il nome
+2) dare la possibilità di inserire il cognome
+3) dare la possibilità di inserire il colore preferito
+4) concatenare i valori delle variabile e concatenare il numero 21 a fine stringa
+5) stampo il risultato su schermo
+    5.1) recupero l'elemento "password"
+    5.2) gli do valore della concatenazione delle stringhe
